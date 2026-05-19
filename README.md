@@ -8,18 +8,25 @@ This repository contains my Java learning journey for Automation Testing and Sof
 - Types of Variables
 - User Input
 - Arithmetic Operators
-
-## Upcoming Topics
 - Relational Operators
 - Logical Operators
 - Conditions (if-else, switch)
 - Loops
 - Arrays
 - Methods
-- Object-Oriented Programming (OOP)
+- Static Keyword
+- ArrayList
+- Inheritance
 - Exception Handling
+
+## Upcoming Topics
+- Encapsulation
+- Polymorphism
+- Abstraction
 - File Handling
 - Collections Framework
+- Java Streams
+- Multithreading
 
 ## Technologies Used
 - Java
@@ -30,9 +37,19 @@ This repository contains my Java learning journey for Automation Testing and Sof
 ## Project Structure
 
 ```text
-src/main/java/javabasics
+src/main/java/Practice
 │
-├── VariableExample.java
-├── UserInputExample.java
+├── ArithmeticOperators.java
+├── ArrayExample.java
+├── ArrayListExample.java
+├── Child.java
+├── ConditionsExample.java
+├── ExceptionHandling.java
+├── InheritanceExample.java
+├── LoopsExample.java
+├── MethodExamples.java
+├── Parent.java
+├── StaticExample.java
 ├── TypesOfVariables.java
-└── ArithmeticOperators.java
+├── UserInputExample.java
+└── VariableExample.java
